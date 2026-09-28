@@ -1,0 +1,11 @@
+En este documento detallaremos los programas que se utilizan para
+ la programacion de este aplicativo.
+
+ Para empezar, todos los docuemntos de este proyecto se desarrollaran
+ mediante Visual Studio Code.
+
+ Los lenguajes a utilizar seran:
+ 1.- javascript = back-end, funcionalidad.
+ 2.- httml = front-end, interfaz grafica.
+ 3.- css = front-end, estilos.
+ 4.- sql = back-end, datos de empleadores y empresas.
